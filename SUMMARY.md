@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Giới thiệu](README.md)
+* [Introduction](README.md)
 * [Syntax](syntax.md)
-* [Data types](data-types.md)
+* [Data types](data-types/README.md)
+  * [Numbers](data-types/numbers.md)
 
